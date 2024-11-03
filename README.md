@@ -10,7 +10,7 @@
 
 
 ## Grand Adventure Quiz Game
-### Overview
+## Overview
 The Grand Adventure Quiz Game is a fun, interactive console-based quiz game for up to five players. Players journey through three themed stages—Mystery Island, Science Station, and History Vault—where they answer questions to accumulate points. Players can also use power-ups to skip questions or double their points, and those who perform exceptionally well can qualify for a Final Bonus Round to earn extra points.
 
 ### Features
