@@ -1,5 +1,5 @@
-**Name:** PUSHKAR KUMAR\n
-**Company:** CODETECH IT SOLUTIONS\n
+**Name:** PUSHKAR KUMAR
+**Company:** CODETECH IT SOLUTIONS
 **ID:** CT08DS9647
 **Domain:** C Programming
 **Duration:** Oct to Nov 2024
