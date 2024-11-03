@@ -1,9 +1,9 @@
-**Name:** PUSHKAR KUMAR
-**Company:** CODETECH IT SOLUTIONS
-**ID:** CT08DS9647
-**Domain:** C Programming
-**Duration:** Oct to Nov 2024
-**Mentor:** 
+👤 **Name:** Pushkar Kumar  
+🏢 **Company:** CodeTech IT Solutions  
+🆔 **ID:** CT08DS9647  
+🖥️ **Domain:** C Programming  
+📅 **Duration:** Oct - Nov 2024  
+👨‍🏫 **Mentor:** 
 
 
 
@@ -50,17 +50,3 @@ The Grand Adventure Quiz Game is a fun, interactive console-based quiz game for 
 
 5. **End of Game**:
    - After all stages (and the bonus round, if qualified), each player’s final score is displayed, along with feedback based on their performance.
-
-## Code Structure
-
-- **main.c**: Main file containing the game flow.
-- **Player and Question Structs**: Defines the player data (name, score, power-ups) and question data (question text, options, and answer).
-- **Game Functions**:
-  - `initializePlayer()` - Initializes each player’s information and power-ups.
-  - `initializeQuestions()` - Sets up questions for each stage based on the theme.
-  - `displayMainMenu()` - Provides options for players during the game.
-  - `playStage()` - Runs through each stage of the game for a player.
-  - `askQuestion()` - Displays a question, validates answers, and updates scores.
-  - `usePowerUp()` - Allows players to use a power-up.
-  - `finalBonusRound()` - Special round for players who score above 70.
-  - `displayFinalScore()` - Shows the player’s final score with feedback.
