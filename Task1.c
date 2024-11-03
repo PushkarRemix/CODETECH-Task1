@@ -43,7 +43,7 @@ int main() {
 
     srand(time(NULL)); // Seed for randomizing questions if needed
 
-    printf("\n=== Welcome to the Grand Adventure Quiz Tournament! ===\n\n");
+    printf("\n=== Welcome to the Grand Adventure Quiz Game! ===\n\n");
 
     // Get number of players
     printf("Enter the number of players (1-%d): ", MAX_PLAYERS);
@@ -81,7 +81,7 @@ int main() {
         displayFinalScore(&players[i]);
     }
 
-    printf("\nThank you for playing the Grand Adventure Quiz Tournament!\n");
+    printf("\nThank you for playing the Grand Adventure Quiz Game!\n");
 
     return 0;
 }
